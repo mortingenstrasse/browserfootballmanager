@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/browserfootballmanager/static/css/main.2a279dfc.css",
+    "main.js": "/browserfootballmanager/static/js/main.d493dbc2.js",
+    "static/media/image3.png": "/browserfootballmanager/static/media/image3.94bd4a025c93df44c585.png",
+    "static/media/image2.png": "/browserfootballmanager/static/media/image2.15b82c843205e2ede9dc.png",
+    "static/media/image1.png": "/browserfootballmanager/static/media/image1.f3d7e6d61f07db8f228e.png",
+    "index.html": "/browserfootballmanager/index.html",
+    "main.2a279dfc.css.map": "/browserfootballmanager/static/css/main.2a279dfc.css.map",
+    "main.d493dbc2.js.map": "/browserfootballmanager/static/js/main.d493dbc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a279dfc.css",
+    "static/js/main.d493dbc2.js"
+  ]
+}
