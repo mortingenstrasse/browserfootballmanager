@@ -1,0 +1,30 @@
+.tactics {
+  text-align: center;
+}
+
+.tactics h2 {
+  margin: 1em 0;
+}
+
+.options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.options button {
+  margin: 0.5em;
+  padding: 1em;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: #ddd;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.options button.selected {
+  background-color: #4CAF50; /* Yeşil renk */
+  color: white;
+  border-color: #388E3C;
+}

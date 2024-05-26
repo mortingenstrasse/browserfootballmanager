@@ -1,0 +1,93 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.manager-screen {
+  text-align: center;
+  color: white;
+  background: url('./data/images/image2.png') no-repeat center center fixed;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+}
+
+.manager-screen::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black overlay */
+  z-index: 1;
+}
+
+.manager-screen .content {
+  position: relative;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+  padding: 20px;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 800px; /* Increased width */
+  margin: 60px auto 0; /* Center content and add margin from top */
+  overflow-y: auto; /* Allow scrolling if content overflows */
+  max-height: calc(100vh - 120px); /* Adjust max height to fit within viewport */
+}
+
+.manager-screen header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 3; /* Ensure it stays above other content */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.9); /* More opaque for better visibility */
+}
+
+.manager-screen .team-name {
+  font-weight: bold; /* Bold team name */
+}
+
+.manager-screen .user-info {
+  margin-bottom: 1em;
+  font-size: 1.2em;
+}
+
+.manager-screen nav {
+  margin: 1em 0;
+}
+
+.manager-screen nav button {
+  margin: 0.5em;
+  padding: 1em;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.manager-screen nav button:hover {
+  background-color: #21a1f1;
+}
+
+.manager-screen main {
+  padding: 1em;
+  margin-top: 60px; /* Add margin to avoid overlap with fixed header */
+}
+
+.fixtures ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.fixtures li {
+  padding: 0.5em 0;
+  border-bottom: 1px solid #61dafb;
+}

@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Seyrantepe FC",
+        "country": "Turkey"
+    },
+    {
+        "name": "Trabz Rovers",
+        "country": "Turkey"
+    },
+    {
+        "name": "Kadikoy Athletic",
+        "country": "Turkey"
+    },
+    {
+        "name": "Baskasehir",
+        "country": "Turkey"
+    },
+    {
+        "name": "Kasimp FC",
+        "country": "Turkey"
+    },
+    {
+        "name": "Dikilitas JK",
+        "country": "Turkey"
+    },
+    {
+        "name": "Kangal Siva FC",
+        "country": "Turkey"
+    },
+    {
+        "name": "Alanaya Sports",
+        "country": "Turkey"
+    },
+    {
+        "name": "Riez Club",
+        "country": "Turkey"
+    },
+    {
+        "name": "Anatalya FC",
+        "country": "Turkey"
+    },
+    {
+        "name": "Kilis AC",
+        "country": "Turkey"
+    },
+    {
+        "name": "Sifirbir AD",
+        "country": "Turkey"
+    },
+    {
+        "name": "Samusunag Sports",
+        "country": "Turkey"
+    },
+    {
+        "name": "Kayisi Seri",
+        "country": "Turkey"
+    },
+    {
+        "name": "ZUN Hayat",
+        "country": "Turkey"
+    },
+    {
+        "name": "Gonya CF",
+        "country": "Turkey"
+    },
+    {
+        "name": "MKK Angara",
+        "country": "Turkey"
+    },
+    {
+        "name": "Fati Karagum",
+        "country": "Turkey"
+    },
+    {
+        "name": "Pandiko CF",
+        "country": "Turkey"
+    },
+    {
+        "name": "Istanbull Club",
+        "country": "Turkey"
+    },
+    {
+        "name": "Manhester Etiyad",
+        "country": "England"
+    },
+    {
+        "name": "Arsen Naal",
+        "country": "England"
+    },
+    {
+        "name": "Riverpool Club",
+        "country": "England"
+    },
+    {
+        "name": "Aston Martini FC",
+        "country": "England"
+    },
+    {
+        "name": "Londn Tottemhane",
+        "country": "England"
+    },
+    {
+        "name": "Cealcea",
+        "country": "England"
+    },
+    {
+        "name": "Newcasting Club",
+        "country": "England"
+    },
+    {
+        "name": "Manchestr Univer",
+        "country": "England"
+    },
+    {
+        "name": "Westhami Sports",
+        "country": "England"
+    },
+    {
+        "name": "Palace of Crys",
+        "country": "England"
+    },
+    {
+        "name": "Brightuna FC",
+        "country": "England"
+    },
+    {
+        "name": "Tournemouth",
+        "country": "England"
+    },
+    {
+        "name": "Fulhane FC",
+        "country": "England"
+    },
+    {
+        "name": "Wolvestein",
+        "country": "England"
+    },
+    {
+        "name": "Evertuna FC",
+        "country": "England"
+    },
+    {
+        "name": "Brendrovers",
+        "country": "England"
+    },
+    {
+        "name": "Nothing Forest",
+        "country": "England"
+    },
+    {
+        "name": "Luton Fayah",
+        "country": "England"
+    },
+    {
+        "name": "Burmlee",
+        "country": "England"
+    },
+    {
+        "name": "Scheffieldl Fc",
+        "country": "England"
+    },
+    {
+        "name": "Clermont",
+        "country": "France"
+    },
+    {
+        "name": "Paris Two",
+        "country": "France"
+    },
+    {
+        "name": "St.Etie AC",
+        "country": "France"
+    },
+    {
+        "name": "Lille AC",
+        "country": "France"
+    },
+    {
+        "name": "Paris Gentelman",
+        "country": "France"
+    },
+    {
+        "name": "Munaco AD",
+        "country": "France"
+    },
+    {
+        "name": "Breste CF",
+        "country": "France"
+    },
+    {
+        "name": "Lillie",
+        "country": "France"
+    },
+    {
+        "name": "Nays Club",
+        "country": "France"
+    },
+    {
+        "name": "Lion FC",
+        "country": "France"
+    },
+    {
+        "name": "Lens Athletic",
+        "country": "France"
+    },
+    {
+        "name": "Marsilliah",
+        "country": "France"
+    },
+    {
+        "name": "Rams Sport",
+        "country": "France"
+    },
+    {
+        "name": "Renne CF",
+        "country": "France"
+    },
+    {
+        "name": "Tulus Club",
+        "country": "France"
+    },
+    {
+        "name": "Montepler",
+        "country": "France"
+    },
+    {
+        "name": "Strasbug Cad",
+        "country": "France"
+    },
+    {
+        "name": "Nante Spor",
+        "country": "France"
+    },
+    {
+        "name": "La havle",
+        "country": "France"
+    },
+    {
+        "name": "Mets",
+        "country": "France"
+    },
+    {
+        "name": "Leverkus",
+        "country": "Germany"
+    },
+    {
+        "name": "Stutgarden",
+        "country": "Germany"
+    },
+    {
+        "name": "Bayern City",
+        "country": "Germany"
+    },
+    {
+        "name": "Red Leip",
+        "country": "Germany"
+    },
+    {
+        "name": "Dordmont",
+        "country": "Germany"
+    },
+    {
+        "name": "Eintragt Frankfut",
+        "country": "Germany"
+    },
+    {
+        "name": "Hoffenheich",
+        "country": "Germany"
+    },
+    {
+        "name": "Heidenhimm",
+        "country": "Germany"
+    },
+    {
+        "name": "Werde Brem",
+        "country": "Germany"
+    },
+    {
+        "name": "Frayborch",
+        "country": "Germany"
+    },
+    {
+        "name": "Augusbuch FC",
+        "country": "Germany"
+    },
+    {
+        "name": "Wolfensbuch",
+        "country": "Germany"
+    },
+    {
+        "name": "Meinz",
+        "country": "Germany"
+    },
+    {
+        "name": "Monchengladich",
+        "country": "Germany"
+    },
+    {
+        "name": "Berlin Nights",
+        "country": "Germany"
+    },
+    {
+        "name": "Bochumuch",
+        "country": "Germany"
+    },
+    {
+        "name": "Kölnig",
+        "country": "Germany"
+    },
+    {
+        "name": "Darmstatten",
+        "country": "Germany"
+    },
+    {
+        "name": "St. Paulich",
+        "country": "Germany"
+    },
+    {
+        "name": "HUVVWF",
+        "country": "Germany"
+    },
+    {
+        "name": "Real City",
+        "country": "Spain"
+    },
+    {
+        "name": "Barchalenni",
+        "country": "Spain"
+    },
+    {
+        "name": "Gironni",
+        "country": "Spain"
+    },
+    {
+        "name": "Athletico CF",
+        "country": "Spain"
+    },
+    {
+        "name": "Athlet Clubs",
+        "country": "Spain"
+    },
+    {
+        "name": "Societat City",
+        "country": "Spain"
+    },
+    {
+        "name": "Betixx",
+        "country": "Spain"
+    },
+    {
+        "name": "Vallareal",
+        "country": "Spain"
+    },
+    {
+        "name": "Valenxie Real",
+        "country": "Spain"
+    },
+    {
+        "name": "CJDE Alave",
+        "country": "Spain"
+    },
+    {
+        "name": "Osurmasa",
+        "country": "Spain"
+    },
+    {
+        "name": "Getafen BSC",
+        "country": "Spain"
+    },
+    {
+        "name": "Celtavi",
+        "country": "Spain"
+    },
+    {
+        "name": "Sevil United",
+        "country": "Spain"
+    },
+    {
+        "name": "Mallorc Athletic",
+        "country": "Spain"
+    },
+    {
+        "name": "La Palma",
+        "country": "Spain"
+    },
+    {
+        "name": "Valecan SC",
+        "country": "Spain"
+    },
+    {
+        "name": "Cadss",
+        "country": "Spain"
+    },
+    {
+        "name": "Almira FC",
+        "country": "Spain"
+    },
+    {
+        "name": "Grandao",
+        "country": "Spain"
+    },
+    {
+        "name": "Yinter",
+        "country": "Italy"
+    },
+    {
+        "name": "Milanov",
+        "country": "Italy"
+    },
+    {
+        "name": "Juvente CF",
+        "country": "Italy"
+    },
+    {
+        "name": "Atalant",
+        "country": "Italy"
+    },
+    {
+        "name": "Bolongi",
+        "country": "Italy"
+    },
+    {
+        "name": "Romee City",
+        "country": "Italy"
+    },
+    {
+        "name": "Lazioli",
+        "country": "Italy"
+    },
+    {
+        "name": "Florence United",
+        "country": "Italy"
+    },
+    {
+        "name": "Torin CF",
+        "country": "Italy"
+    },
+    {
+        "name": "Pizza Napolitano",
+        "country": "Italy"
+    },
+    {
+        "name": "Genou SC",
+        "country": "Italy"
+    },
+    {
+        "name": "Monzaa Dynamo",
+        "country": "Italy"
+    },
+    {
+        "name": "Vereno",
+        "country": "Italy"
+    },
+    {
+        "name": "Leccec SC",
+        "country": "Italy"
+    },
+    {
+        "name": "Udine CF",
+        "country": "Italy"
+    },
+    {
+        "name": "Cagliazi",
+        "country": "Italy"
+    },
+    {
+        "name": "Yempoli",
+        "country": "Italy"
+    },
+    {
+        "name": "Saleternita",
+        "country": "Italy"
+    },
+    {
+        "name": "Frosiona",
+        "country": "Italy"
+    },
+    {
+        "name": "Sasulos",
+        "country": "Italy"
+    },
+    {
+        "name": "PV Veindohen",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Feyenorth",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Twenty SC",
+        "country": "Netherlands"
+    },
+    {
+        "name": "AZB Halkmar",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Amsterdam Hollan",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Nec",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Utret Rovers",
+        "country": "Netherlands"
+    },
+    {
+        "name": "XHBVIMG SC",
+        "country": "Netherlands"
+    },
+    {
+        "name": "CMSKQXML Real",
+        "country": "Netherlands"
+    },
+    {
+        "name": "HMUJA Athletic",
+        "country": "Netherlands"
+    },
+    {
+        "name": "BRHQ Real",
+        "country": "Netherlands"
+    },
+    {
+        "name": "LEMLDDZ United",
+        "country": "Netherlands"
+    },
+    {
+        "name": "NVAHS FC",
+        "country": "Netherlands"
+    },
+    {
+        "name": "YIC AC",
+        "country": "Netherlands"
+    },
+    {
+        "name": "VLFEJN Van de Boug",
+        "country": "Netherlands"
+    },
+    {
+        "name": "XDNDUE Legal",
+        "country": "Netherlands"
+    },
+    {
+        "name": "FLST United",
+        "country": "Netherlands"
+    },
+    {
+        "name": "CBTAX AC",
+        "country": "Netherlands"
+    },
+    {
+        "name": "LMUNVZU CF",
+        "country": "Netherlands"
+    },
+    {
+        "name": "UNXNLBKC Sporting",
+        "country": "Netherlands"
+    },
+    {
+        "name": "RCQLNWML United",
+        "country": "Portugal"
+    },
+    {
+        "name": "HYKM CF",
+        "country": "Portugal"
+    },
+    {
+        "name": "LLNN Athletic",
+        "country": "Portugal"
+    },
+    {
+        "name": "Benfic Rovers",
+        "country": "Portugal"
+    },
+    {
+        "name": "Porto SC",
+        "country": "Portugal"
+    },
+    {
+        "name": "Boavist BSC",
+        "country": "Portugal"
+    },
+    {
+        "name": "MYXMZH Rovers",
+        "country": "Portugal"
+    },
+    {
+        "name": "Sportinge City",
+        "country": "Portugal"
+    },
+    {
+        "name": "VEOKRIW FC",
+        "country": "Portugal"
+    },
+    {
+        "name": "IELRJ CF",
+        "country": "Portugal"
+    },
+    {
+        "name": "FSSQ City",
+        "country": "Portugal"
+    },
+    {
+        "name": "CNQTFEZU BSC",
+        "country": "Portugal"
+    },
+    {
+        "name": "OTM Real",
+        "country": "Portugal"
+    },
+    {
+        "name": "RURH Sporting",
+        "country": "Portugal"
+    },
+    {
+        "name": "KVVWQT Real",
+        "country": "Portugal"
+    },
+    {
+        "name": "HUFE FC",
+        "country": "Portugal"
+    },
+    {
+        "name": "YZNBLVZ CF",
+        "country": "Portugal"
+    },
+    {
+        "name": "BMWUQCU Sporting",
+        "country": "Portugal"
+    },
+    {
+        "name": "TAENMNJ Rovers",
+        "country": "Portugal"
+    },
+    {
+        "name": "QKVZZDR Sporting",
+        "country": "Portugal"
+    },
+    {
+        "name": "PPNJN City",
+        "country": "Russia"
+    },
+    {
+        "name": "XNW AC",
+        "country": "Russia"
+    },
+    {
+        "name": "DCKOYDU Dynamo",
+        "country": "Russia"
+    },
+    {
+        "name": "HBPYJW Zent",
+        "country": "Russia"
+    },
+    {
+        "name": "KHEMEIL FC",
+        "country": "Russia"
+    },
+    {
+        "name": "LPUG CF",
+        "country": "Russia"
+    },
+    {
+        "name": "EARN Real",
+        "country": "Russia"
+    },
+    {
+        "name": "JNKC Pettersb",
+        "country": "Russia"
+    },
+    {
+        "name": "BJON Athletic",
+        "country": "Russia"
+    },
+    {
+        "name": "BKLMRB City",
+        "country": "Russia"
+    },
+    {
+        "name": "TDNMGK Sporting",
+        "country": "Russia"
+    },
+    {
+        "name": "Moscow CF",
+        "country": "Russia"
+    },
+    {
+        "name": "HTFD Sputnik",
+        "country": "Russia"
+    },
+    {
+        "name": "UVQ Sporting",
+        "country": "Russia"
+    },
+    {
+        "name": "TZYZNQI CF",
+        "country": "Russia"
+    },
+    {
+        "name": "WJYI Rovers",
+        "country": "Russia"
+    },
+    {
+        "name": "KPVAZT Sporting",
+        "country": "Russia"
+    },
+    {
+        "name": "IMGE AC",
+        "country": "Russia"
+    },
+    {
+        "name": "PPVCELH SC",
+        "country": "Russia"
+    },
+    {
+        "name": "DZY SC",
+        "country": "Russia"
+    },
+    {
+        "name": "Santos CF",
+        "country": "Brazil"
+    },
+    {
+        "name": "MKCGS da Gama",
+        "country": "Brazil"
+    },
+    {
+        "name": "Flumine Real",
+        "country": "Brazil"
+    },
+    {
+        "name": "RXTIW Palmers",
+        "country": "Brazil"
+    },
+    {
+        "name": "XXTMF FC",
+        "country": "Brazil"
+    },
+    {
+        "name": "ZVDZ CF",
+        "country": "Brazil"
+    },
+    {
+        "name": "UHD BSC",
+        "country": "Brazil"
+    },
+    {
+        "name": "WEN United",
+        "country": "Brazil"
+    },
+    {
+        "name": "WFAT BSC",
+        "country": "Brazil"
+    },
+    {
+        "name": "LCHUMS Athletic",
+        "country": "Brazil"
+    },
+    {
+        "name": "LHU BSC",
+        "country": "Brazil"
+    },
+    {
+        "name": "XSV AC",
+        "country": "Brazil"
+    },
+    {
+        "name": "GYZLYS BSC",
+        "country": "Brazil"
+    },
+    {
+        "name": "PMDEUKM United",
+        "country": "Brazil"
+    },
+    {
+        "name": "ORLZP SC",
+        "country": "Brazil"
+    },
+    {
+        "name": "DGUXDGLG Athletic",
+        "country": "Brazil"
+    },
+    {
+        "name": "XKOSHR AC",
+        "country": "Brazil"
+    },
+    {
+        "name": "YIT FC",
+        "country": "Brazil"
+    },
+    {
+        "name": "Braz Sporting",
+        "country": "Brazil"
+    },
+    {
+        "name": "Rio BSC",
+        "country": "Brazil"
+    }
+]

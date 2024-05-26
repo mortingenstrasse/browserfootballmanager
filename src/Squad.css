@@ -1,0 +1,87 @@
+.squad {
+  padding: 20px;
+}
+
+.squad h2 {
+  margin-bottom: 20px;
+}
+
+.starting-lineup {
+  margin-bottom: 20px;
+}
+
+.lineup-numbers {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #4CAF50; /* Yeşil renk */
+}
+
+.player-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.player-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #333;
+  color: #fff;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  height: 60px; /* Satır yüksekliği */
+  cursor: pointer;
+}
+
+.player-card.selected {
+  border: 2px solid #4CAF50; /* Yeşil border */
+}
+
+.player-card:hover {
+  background-color: #444;
+}
+
+.player-info {
+  display: flex;
+  align-items: center;
+}
+
+.player-number {
+  font-size: 1.2em;
+  font-weight: bold;
+  background-color: #ccc;
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+
+.player-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.player-name {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.player-position {
+  font-size: 0.8em;
+  color: #aaa;
+  text-align: left; /* Sol hizalama */
+}
+
+.player-skills {
+  display: flex;
+  gap: 10px;
+  font-size: 0.75em; /* Küçük punto */
+}
